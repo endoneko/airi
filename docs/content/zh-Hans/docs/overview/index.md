@@ -12,9 +12,9 @@ description: 了解 Project AIRI 的用户界面
 - 一个支持 Live2D，VRM，并且一起玩游戏，或者感知其他应用的 [SillyTavern](https://github.com/SillyTavern/SillyTavern)（酒馆）替代方案
 
 你是否梦想过拥有一个赛博生命（赛博 waifu），
-或者可以陪你玩耍、聊天的数字伙伴？
+或者可以陪你玩耍、聊天的数字伙伴（digital friend）？
 
-借助现代 LLM 的强大功能，
+借助现代 LLM （大语言模型）的强大功能，
 像 [Character.ai (又名 c.ai)](https://character.ai) 和 [JanitorAI](https://janitorai.com/) 这样的平台，
 或者像 [SillyTavern](https://github.com/SillyTavern/SillyTavern) 这样的应用已经可以为基于聊天或视觉 ADV 游戏的体验提供足够完善的解决方案。
 
@@ -28,7 +28,7 @@ description: 了解 Project AIRI 的用户界面
 
 ## 开始使用
 
-我们同时支持网页和客户端。
+我们同时支持网页和客户端的下载。
 
 <div flex gap-2 w-full justify-center text-xl>
   <div w-full flex flex-col items-center gap-2 border="2 solid gray-500/10" rounded-lg px-2 pt-6 pb-4>
